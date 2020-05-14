@@ -20,6 +20,7 @@ The src folder contains the required cloudFormation code:
 Outputs the url of the Load Balancer DNS name to be able to access the application.
 
 Run the following: 
+
 <b><i>
 ./create.sh project-stack project-network.yml project-network-parameters.json
 
