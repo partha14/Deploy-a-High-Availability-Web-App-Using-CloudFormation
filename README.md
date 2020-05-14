@@ -37,3 +37,7 @@ Run the following:
 
 Note: The number of the minimum and maximum autoscale group numbers are set at 4 with instance type 'small'. You might incur costs if you let this running. 
 
+
+Expected Output for the WebApplication:
+
+<img src="img/IAAC_project_Arch_diagram.jpeg">
