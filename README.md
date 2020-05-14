@@ -10,6 +10,7 @@ The Problem statement is to automatically pickup HTML, CSS files from S3 and see
 
 <h1> Source Code </h1>
 The src folder contains the required cloudFormation code:
+
 1. create.sh - For creation of the stack
 
 2. update.sh - For updation of the stack.
