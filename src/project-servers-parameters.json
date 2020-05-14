@@ -1,0 +1,12 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProject"
+	},{
+		"ParameterKey": "AutoScaleMinServers",
+		"ParameterValue": "4"
+	},{
+		"ParameterKey": "AutoScaleMaxServers",
+		"ParameterValue": "4"
+	}
+]
