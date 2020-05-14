@@ -20,9 +20,10 @@ The src folder contains the required cloudFormation code:
 Outputs the url of the Load Balancer DNS name to be able to access the application.
 
 Run the following: 
-
+<b><i>
 ./create.sh project-stack project-network.yml project-network-parameters.json
-./update.sh project-stack project-servers.yml project-servers-parameters.json
 
+./update.sh project-stack project-servers.yml project-servers-parameters.json
+</b></i>
 Note: The number of the minimum and maximum autoscale group numbers are set at 4 with instance type 'small'. You might incur costs if you let this running. 
 
