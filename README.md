@@ -40,4 +40,4 @@ Note: The number of the minimum and maximum autoscale group numbers are set at 4
 
 Expected Output for the WebApplication:
 
-<img src="img/WebApplication%20Udagram%20Screenshot.png.jpeg">
+<img src="img/WebApplication%20Udagram%20Screenshot.png">
