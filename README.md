@@ -11,11 +11,17 @@ The Problem statement is to automatically pickup HTML, CSS files from S3 and see
 <h1> Source Code </h1>
 The src folder contains the required cloudFormation code:
 1. create.sh - For creation of the stack
+
 2. update.sh - For updation of the stack.
+
 3. project-network.yml - the manifest file required to build the network part of the infrastructure
+
 4. project-network-parameters.json - has the needed parameters for the network yaml file
+
 5. project-servers.yml - the manifest file to create the required servers for the infrastructure
+
 6. project-servers-parameters.json - has the needed parameters for the servers yaml file
+
 
 Outputs the url of the Load Balancer DNS name to be able to access the application.
 
